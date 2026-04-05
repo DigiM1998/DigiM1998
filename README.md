@@ -1,7 +1,12 @@
 DigiM1998
-i .
 www.facebook.com
 ## Hi there 👋
+m.twiteer
+whatsapps
+my profile 
+www.DigiM.com
+
+
 
 <!--
 **DigiM1998/DigiM1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
